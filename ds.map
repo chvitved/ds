@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<jar name="distshell.war">
+	<dir path="" from="war" />
+</jar>

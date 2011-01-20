@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+
+<!DOCTYPE trifork-app-conf 
+       PUBLIC '-//Trifork//DTD System Configuration//EN' 
+              'http://www.trifork.com/j2ee/dtds/trifork-app-conf_1_0.dtd'>
+
+<trifork-app-conf>
+  <web-app>
+  	<uri>distshell.war</uri>
+    <context-root>/</context-root>
+  </web-app>
+</trifork-app-conf> 

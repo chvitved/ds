@@ -1,0 +1,6 @@
+.DS_Store
+logs
+*.log
+test-classes
+war/WEB-INF/classes
+war/distshell
